@@ -4,6 +4,7 @@ static const Block blocks[] = {
 
 	{" ",	"music-indicator",	2,	18},
 	{"📦 ",	"packagecount",	600,	16},
+//	{"",	"weather",	60,	16},
 	{"🌡 ",	"cputemp",	10,	12},
 	{"⬇ ",	"dwmdown",	1,	26},
 	{"",	"battery",	5,	3},
